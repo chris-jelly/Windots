@@ -9,6 +9,7 @@
 Import-Module PSFramework
 Import-Module Logging
 Import-Module posh-git
+Import-Module Terminal-Icons
 #endregion moduleImports
 
 #region Alias
